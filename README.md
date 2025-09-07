@@ -53,6 +53,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## Credits
 
 - [Osama Nagi](https://github.com/osamanagi)
+- [Andréia Bohner](https://github.com/andreia) - For the inspiration
 - [All Contributors](../../contributors)
 
 ## License
