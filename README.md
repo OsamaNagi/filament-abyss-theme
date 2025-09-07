@@ -1,9 +1,9 @@
 # Filament Abyss Theme
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/nagi/filament-abyss-theme)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/nagi/filament-abyss-theme/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/nagi/filament-abyss-theme/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/nagi/filament-abyss-theme/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/nagi/filament-abyss-theme/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/nagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/nagi/filament-abyss-theme)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/OsamaNagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/OsamaNagi/filament-abyss-theme)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/OsamaNagi/filament-abyss-theme/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/OsamaNagi/filament-abyss-theme/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/OsamaNagi/filament-abyss-theme/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/OsamaNagi/filament-abyss-theme/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/OsamaNagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/OsamaNagi/filament-abyss-theme)
 
 Aesthetic Abyss theme for FilamentPHP.
 
