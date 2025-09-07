@@ -123,3 +123,7 @@
 .fi-icon-btn-badge-ctn span {
 	@apply dark:text-[#b4a183] text-[#134847] bg-[#d1f3f1] dark:bg-primary-400/20;
 }
+
+.fi-toggle[aria-checked='false'] {
+	@apply dark:bg-[#314158];
+}
