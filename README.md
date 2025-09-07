@@ -7,6 +7,8 @@
 
 Aesthetic Abyss theme for FilamentPHP.
 
+![Dashboard Light and Dark](https://raw.githubusercontent.com/osamanagi/filament-abyss-theme/main/docs/dashboard.png)
+
 ## Installation
 
 You can install the package via composer:
