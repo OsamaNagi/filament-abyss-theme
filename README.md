@@ -1,9 +1,9 @@
 # Filament Abyss Theme
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/nagi/filament-abyss-theme)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/nagi/filament-abyss-theme/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/nagi/filament-abyss-theme/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/nagi/filament-abyss-theme/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/nagi/filament-abyss-theme/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/nagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/nagi/filament-abyss-theme)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/osamanagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/osamanagi/filament-abyss-theme)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/osamanagi/filament-abyss-theme/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/osamanagi/filament-abyss-theme/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/osamanagi/filament-abyss-theme/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/osamanagi/filament-abyss-theme/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/osamanagi/filament-abyss-theme.svg?style=flat-square)](https://packagist.org/packages/osamanagi/filament-abyss-theme)
 
 Aesthetic Abyss theme for FilamentPHP.
 
@@ -12,13 +12,13 @@ Aesthetic Abyss theme for FilamentPHP.
 You can install the package via composer:
 
 ```bash
-composer require nagi/filament-abyss-theme
+composer require osamanagi/filament-abyss-theme
 ```
 
 Add a new item to the `input` array of your `vite.config.js` file:
 
 ```js
-'vendor/nagi/filament-abyss-theme/resources/css/theme.css';
+'vendor/osamanagi/filament-abyss-theme/resources/css/theme.css';
 ```
 
 Run:
@@ -52,7 +52,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Osama Nagi](https://github.com/OsamaNagi)
+- [Osama Nagi](https://github.com/osamanagi)
 - [All Contributors](../../contributors)
 
 ## License

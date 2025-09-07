@@ -58,7 +58,7 @@ class FilamentAbyssThemePlugin implements Plugin
                 'success' => Color::hex('#45ACAB'),
                 'warning' => Color::hex('#fed7a7'),
             ])
-            ->viteTheme('vendor/nagi/filament-abyss-theme/resources/css/theme.css');
+            ->viteTheme('vendor/osamanagi/filament-abyss-theme/resources/css/theme.css');
     }
 
     public function boot(Panel $panel): void
