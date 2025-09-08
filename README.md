@@ -105,6 +105,27 @@ You're all set!
   </tbody>
 </table>
 
+### Notification
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col" width="1000px">Notification Light</th>
+      <th scope="col" width="1000px">Notification Dark</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/osamanagi/filament-abyss-theme/main/docs/notification_light.png" width="100%" alt="Notification Light">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/osamanagi/filament-abyss-theme/main/docs/notification_dark.png" width="100%" alt="Notification Dark">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### Order
 
 <table class="table">
