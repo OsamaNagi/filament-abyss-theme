@@ -20,12 +20,18 @@
 	--primary-200: #f8d1a2;
 	--primary-300: #f8d1a2;
 	--primary-400: #f8d1a2;
-	--primary-500: #335f69;
-	--primary-600: #003743;
-	--primary-700: #1c5f5e;
+	--primary-500: #2b9c9a;
+	--primary-600: #34b9b7;
+	--primary-700: #34b9b7;
 	--primary-800: #134847;
 	--primary-900: #0d3433;
 	--primary-950: #092424;
+}
+
+.dark {
+	--primary-500: #335f69;
+	--primary-600: #003743;
+	--primary-700: #1c5f5e;
 }
 
 .fi-color-primary {
@@ -117,7 +123,7 @@
 
 .fi-pagination .fi-pagination-next-btn,
 .fi-pagination .fi-pagination-previous-btn {
-	@apply dark:text-primary-400 text-[#134847];
+	@apply dark:text-primary-400 dark:bg-[#003743] dark:hover:bg-[#134847] text-[#134847] bg-primary-600 hover:bg-[#2b9c9a] text-white;
 }
 
 .fi-icon-btn-badge-ctn span {
@@ -126,4 +132,9 @@
 
 .fi-toggle[aria-checked='false'] {
 	@apply dark:bg-[#314158];
+}
+
+.fi-sc-wizard .fi-sc-wizard-header .fi-sc-wizard-header-step.fi-active .fi-sc-wizard-header-step-btn .fi-sc-wizard-header-step-icon-ctn,
+.fi-sc-wizard .fi-sc-wizard-header .fi-sc-wizard-header-step.fi-active .fi-sc-wizard-header-step-btn .fi-sc-wizard-header-step-icon-ctn .fi-sc-wizard-header-step-number {
+	@apply dark:border-primary-400 dark:text-primary-400;
 }
