@@ -138,3 +138,7 @@
 .fi-sc-wizard .fi-sc-wizard-header .fi-sc-wizard-header-step.fi-active .fi-sc-wizard-header-step-btn .fi-sc-wizard-header-step-icon-ctn .fi-sc-wizard-header-step-number {
 	@apply dark:border-primary-400 dark:text-primary-400;
 }
+
+.fi-no-database .fi-no-notification-unread-ctn {
+	@apply dark:before:bg-primary-400;
+}
