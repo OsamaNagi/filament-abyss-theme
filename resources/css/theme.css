@@ -54,7 +54,7 @@
 
 .fi-topbar nav,
 .fi-sidebar-header {
-	@apply bg-gray-100 dark:bg-[#001e29];
+	@apply bg-gray-50 dark:bg-[#001e29];
 }
 
 .fi-body {

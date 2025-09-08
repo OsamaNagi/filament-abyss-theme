@@ -23,8 +23,8 @@ class FilamentAbyssThemePlugin implements Plugin
     {
         FilamentColor::register([
             'gray' => [
-                50 => '#FBFBFB',
-                100 => '#F0F0F0',
+                50 => '#f9fafb',
+                100 => '#f9fafb',
                 200 => '#E0E0E0',
                 300 => '#C0C0C0',
                 400 => '#989FB1',
