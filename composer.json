@@ -12,6 +12,11 @@
 		"aesthetic",
 		"abyss-theme"
 	],
+  "homepage": "https://github.com/osamanagi/filament-abyss-theme",
+  "support": {
+      "issues": "https://github.com/osamanagi/filament-abyss-theme/issues",
+      "source": "https://github.com/osamanagi/filament-abyss-theme"
+   },
 	"license": "MIT",
 	"authors": [
 		{
